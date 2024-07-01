@@ -4,7 +4,68 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee81860d-4f82-4a8a-b974-1c9b59737698" name="Changes" comment="" />
+    <list default="true" id="ee81860d-4f82-4a8a-b974-1c9b59737698" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.dbdata/#ib_16384_0.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/#ib_16384_0.dblwr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/#ib_16384_1.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/#ib_16384_1.dblwr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/auto.cnf" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/auto.cnf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000001" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/binlog.000001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000002" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/binlog.000002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000003" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/binlog.000003" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000004" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/binlog.000004" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000005" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/binlog.000005" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000008" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000009" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000010" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000011" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000012" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000013" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000015" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000016" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000017" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000018" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000019" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000020" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000021" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000022" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000023" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000024" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000025" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000026" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000027" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.000028" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/binlog.index" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/binlog.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/ca-key.pem" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/ca-key.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/ca.pem" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/ca.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/client-cert.pem" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/client-cert.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/client-key.pem" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/client-key.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/ib_buffer_pool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/ibtmp1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/mysql.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/private_key.pem" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/private_key.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/public_key.pem" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/public_key.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/server-cert.pem" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/server-cert.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/server-key.pem" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/server-key.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/undo_001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dbdata/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/.dbdata/undo_002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2b55e977-c138-4c58-b4c7-a0c2a78de256.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2b55e977-c138-4c58-b4c7-a0c2a78de256/storage_v2/_src_/schema/fullapp.MhmH4Q.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5cd8ee02-b662-40f1-a4e5-50b6383356d8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5cd8ee02-b662-40f1-a4e5-50b6383356d8/storage_v2/_src_/schema/fullapp.MhmH4Q.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/authController.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/authController.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/db.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/routes.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/routes.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/main" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/main" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +79,9 @@
     </option>
   </component>
   <component name="GOROOT" url="file://$USER_HOME$/sdk/go1.22.4" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -32,11 +96,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultGoTemplateProperty": "Go File",
+    "Docker.docker-compose.yml.backend: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "master",
     "go.import.settings.migrated": "true",
     "last_opened_file_path": "/home/younes/Desktop/full_stack_app",
     "node.js.detected.package.eslint": "true",
@@ -50,6 +117,40 @@
     ]
   }
 }]]></component>
+  <component name="RunManager" selected="Docker.docker-compose.yml.backend: Compose Deployment">
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.backend: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="backend" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.backend: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

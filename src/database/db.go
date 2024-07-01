@@ -14,7 +14,7 @@ func Connect() {
 	DB, err = gorm.Open(mysql.Open("root:root@tcp(db:3306)/fullapp"), &gorm.Config{})
 
 	if err != nil {
-		panic("CLOUD NOT START THE DATABASE")
+		panic("CLOUD NOT START THE DATABASE!")
 	}
 }
 
