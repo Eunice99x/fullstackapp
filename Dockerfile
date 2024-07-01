@@ -8,4 +8,6 @@ COPY . .
 
 RUN curl -sSfL https://raw.githubusercontent.com/air-verse/air/master/install.sh | sh -s -- -b $(go env GOPATH)/bin
 
+ENV PATH="${PATH}:$(go env GOPATH)/bin"
+
 CMD ["air"]
